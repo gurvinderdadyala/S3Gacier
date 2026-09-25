@@ -252,6 +252,4 @@ python3 glacier_vault_manager.py delete project-vault
 
 This tool is provided as-is. Deleting archives and vaults is irreversible — double-check before running destructive commands. Do not hardcode long-lived access keys in repositories.
 
----
 
-If you’d like, I can also produce a small `example_env.sh` that exports environment variables for testing, or create a version that uploads metadata to S3 after each run. Which would you prefer next?
